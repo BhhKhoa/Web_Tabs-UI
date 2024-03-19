@@ -1,4 +1,4 @@
-## Nguồn tham khảo:
+## `Nguồn tham khảo:`
 
 Tham khảo hướng dẫn từ: [Xây dựng Tabs UI với Javascript cơ bản](https://youtu.be/oYC6wGu-sWo?si=NGehwRnPtVHH5Qen) của [F8 Official](https://www.youtube.com/@F8VNOfficial)
 
